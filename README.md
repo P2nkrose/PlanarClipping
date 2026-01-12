@@ -52,3 +52,6 @@ const float r =
 
 // 평면으로부터의 거리가 투영 반지름보다 크면 '위에 있음'으로 판정
 return Plane.PlaneDot(C) > r;
+```
+<img width="1157" height="510" alt="image" src="https://github.com/user-attachments/assets/3f285216-80dc-440b-acb7-9c19d3d4be7a" />
+
